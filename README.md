@@ -5,8 +5,13 @@
 An end-to-end commercial analytics dashboard built in Power BI, analyzing **113,000+ e-commerce transactions** across Office Supplies, Furniture, and Technology categories. Tracks sales performance, delivery efficiency, and profitability across 4 US regions.
 
 ## 🎬 Demo
-[![Watch the Demo](https://youtu.be/GaVcotWCBjo)
-*Click the image above to watch the full dashboard walkthrough.*
+<p align="center">
+  <a href="https://youtu.be/GaVcotWCBjo">
+    <img src="https://img.youtube.com/vi/GaVcotWCBjo/0.jpg" width="600">
+  </a>
+</p>
+
+<p align="center"><i>Click the image above to watch the full dashboard walkthrough</i></p>
 
 ## 💡 Key Insights
 - 💰 Total Revenue: **$23.2M** | Total Profit: **$2.6M**
@@ -33,9 +38,10 @@ An end-to-end commercial analytics dashboard built in Power BI, analyzing **113,
 - 🔄 Power Query for data transformation
 
 ## 🚀 How to Use
-1. Clone this repo
-2. Open `report/Commercial_Performance_Intelligence.pbix` in Power BI Desktop
+1. Clone this repo  
+2. Open `report/Commercial_Performance_Intelligence.pbix` in Power BI Desktop  
 3. Refresh data source pointing to `/data/ecommerce_data.csv`
 
 ## 👤 Author
-**Darshan Jain** | [🔗 LinkedIn](your-linkedin-url)
+**Darshan Jain**  
+[🔗 LinkedIn](your-linkedin-url)
