@@ -5,7 +5,7 @@
 An end-to-end commercial analytics dashboard built in Power BI, analyzing **113,000+ e-commerce transactions** across Office Supplies, Furniture, and Technology categories. Tracks sales performance, delivery efficiency, and profitability across 4 US regions.
 
 ## 🎬 Demo
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/GaVcotWCBjo)
+[![Watch the Demo](https://img.youtube.com/vi/GaVcotWCBjo/0.jpg)](https://youtu.be/GaVcotWCBjo)
 *Click the image above to watch the full dashboard walkthrough.*
 
 ## 💡 Key Insights
