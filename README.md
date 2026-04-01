@@ -36,4 +36,4 @@ An end-to-end commercial analytics dashboard built in Power BI, analyzing **113,
 ## 👤 Author
 **Darshan Jain**  
 [🔗 LinkedIn](your-linkedin-url)
-[🔗 Demo Link](https://youtu.be/GaVcotWCBjo)
+[🔗 Demo Link](https://youtu.be/pj0F4rnUu-w)
