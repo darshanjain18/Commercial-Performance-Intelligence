@@ -1,5 +1,5 @@
 # 📊 Commercial Performance Intelligence Dashboard
-> ⚡ Power BI | 🛒 E-commerce Analytics | 📅 2022 Sales Data
+> ⚡ Power BI | 🛒 E-commerce Analytics | 📅 Raw Sales Data
 
 ## 🔍 Overview
 An end-to-end commercial analytics dashboard built in Power BI, analyzing **113,000+ e-commerce transactions** across Office Supplies, Furniture, and Technology categories. Tracks sales performance, delivery efficiency, and profitability across 4 US regions.
